@@ -21,6 +21,6 @@ hello git! hello wjd!
 hello git! hello wjd!
 hello git! hello wjd!
 hello git! hello wjd!
-hello git! new
+hello git! hello wjd!
 0123456789
 hot-fix-111111111111
